@@ -44,7 +44,8 @@ async function factCheckCommand(message) {
                 numRetries++;
             } else {
                 console.error('Error checking facts: Error Code:', error.response.status);
-                await message.channel.send('There was an error checking the facts.');
+                await message.channel.send('There was an error checking the facts.');\
+                return;
             }
         }
     }
