@@ -6,7 +6,8 @@ This discord bot is used to check how factual another users statment is by using
 
 This is just a project for me to try and test out the ChatGPT API and to test out its capabilities in a somewhat productive way.
 
-Usage:
+
+Bot Usage:
 
 Respond to any users message with "!factcheck" and the bot will access the statemetns and respond with whether the statment is factual or ficticious and will provide a link to a resource that supports the outcome.
 
