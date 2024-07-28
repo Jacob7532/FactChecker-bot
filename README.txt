@@ -1,4 +1,6 @@
-Fact Checker Discord Bot
+<h1>WORK IN PROGRESS<h1>
+
+<h2>Fact Checker Discord Bot<h2>
 
 This discord bot is used to check how factual another users statment is by using ChatGPT to check its validity.
 
