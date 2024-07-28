@@ -4,7 +4,7 @@ Fact Checker Discord Bot
 
 This discord bot is used to check how factual another users statment is by using ChatGPT to check its validity.
 
-This is just a little project for me to try and test out the ChatGPT API and to test out its capabilities in a somewhat productive way.
+This is just a project for me to try and test out the ChatGPT API and to test out its capabilities in a somewhat productive way.
 
 Usage:
 
