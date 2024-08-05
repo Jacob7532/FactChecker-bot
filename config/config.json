@@ -1,4 +1,5 @@
 {
-    "BOT_TOKEN": "Token Here",
-    "CLAUDE_API_KEY": "Token Here"
+    "BOT_TOKEN": "Token",
+    "CHATGPT_API_URL": "Url",
+    "CHATGPT_API_KEY": "Token"
   }
