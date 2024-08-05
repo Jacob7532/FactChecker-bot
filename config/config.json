@@ -1,5 +1,4 @@
 {
     "BOT_TOKEN": "Token Here",
-    "CHATGPT_API_URL": "https://api.openai.com/v1/chat/completions",
-    "CHATGPT_API_KEY": "Token Here"
+    "CLAUDE_API_KEY": "Token Here"
   }
